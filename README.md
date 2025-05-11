@@ -8,9 +8,8 @@
 
 ## 🔧 About Me
 
-- 🎓 Finishing my B.S. in Computer Science (accelerated program @ WGU)
+- 🎓 Finishing my B.S. in Computer Science
 - 💻 Specializing in **C++**, **concurrency**, and **high-performance computing**
-- 🧠 Interested in **HPC**, **quant dev**
 - 🌌 Long-term goal: **put something in space**
 - 🏗️ Currently building projects involving:
   - Multithreaded simulations
