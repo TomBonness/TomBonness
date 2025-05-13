@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Bonness</h1>
 <p align="center">
   <strong>CS Student • C++ Dev • HPC </strong><br>
-  <em>Optimizing my day to day life to be O(1)</em>
+  <em>Optimizing my daily life</em>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🏗️ Currently building projects involving:
   - Multithreaded simulations
   - Probabilistic models using Markov chains
-  - GPU-accelerated data crunching
+  - GPU-accelerated data crunching (OpenCL)
   - Real-time systems with C++ and Python
 
 ---
@@ -26,7 +26,6 @@
 | `boids-swarm-sim` | C++ / SFML | Visualizing flocking behavior with concurrency |
 | `parallel-weather-sim` | C++ / OpenMP | Simulating weather using Markov chains |
 | `market-latency-analyzer` | C++ / TCP/IP | Exploring market structure + network packet timing |
-| `tinyAI-hpc` | Python / CUDA | Training tiny ML models on edge devices |
 
 ---
 
@@ -34,6 +33,8 @@
 
 - [x] `C++ Concurrency in Action` (📘 Reading)
 - [ ] `OSTEP` (📘 Reading)
+- [ ] `Inside the Machine` (📘 Reading)
+- [ ] `Design Patterns` (📘 Reading)
 - [ ] CUDA optimization for quant-style data loads
 - [ ] Build a fully parallelized options backtester
 
@@ -44,7 +45,7 @@
 - ✅ Start MSCS program
 - 🚀 Land a role in **HPC**, **AI**, or **quant dev**
 - ✍️ Publish some serious open-source projects
-- 🧪 Start developing tooling for real-time AI apps
+- 🧪 Start developing high performance systems
 
 ---
 
