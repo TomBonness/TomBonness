@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Bonness</h1>
 <p align="center">
   <strong>CS Student • C++ Dev • HPC </strong><br>
-  <em>Optimizing my daily life</em>
+  <em>Trying to out-optimize my imposter syndrome</em>
 </p>
 
 ---
@@ -12,10 +12,10 @@
 - 💻 Specializing in **C++**, **concurrency**, and **high-performance computing**
 - 🌌 Long-term goal: **put something in space**
 - 🏗️ Currently building projects involving:
-  - Multithreaded simulations
-  - Probabilistic models using Markov chains
-  - GPU-accelerated data crunching (OpenCL)
-  - Real-time systems with C++ and Python
+  - 🧮 HPC + Parallelism
+  - 🧠 Low-latency C++
+  - ⚙️ Performance Optimization
+
 
 ---
 
@@ -23,27 +23,28 @@
 
 | Project | Tech | Focus |
 |--------|------|-------|
-| `boids-swarm-sim` | C++ / SFML | Visualizing flocking behavior with concurrency |
-| `parallel-weather-sim` | C++ / OpenMP | Simulating weather using Markov chains |
-| `market-latency-analyzer` | C++ / TCP/IP | Exploring market structure + network packet timing |
+| `boids-simulator` | C++ / std::thread / SFML | Real-time flocking sim with multithreaded update/render loop |
+| `monte-carlo-pricer` | C++ / std::thread / SIMD | Parallel option pricing using custom thread pool + vector math |
+| `matrix-mult-benchmark` | C++ / manual cache tuning | Compare naive vs blocked matrix mult with perf counters & timing |
 
 ---
 
 ## 📚 On the Learning Grind
 
-- [x] `C++ Concurrency in Action` (📘 Reading)
 - [ ] `OSTEP` (📘 Reading)
 - [ ] `Inside the Machine` (📘 Reading)
+- [ ] `TCP/IP Illustrated` (📘 Reading)
 - [ ] `Design Patterns` (📘 Reading)
-- [ ] CUDA optimization for quant-style data loads
-- [ ] Build a fully parallelized options backtester
+- [ ] `Effective Modern C++` (📘 Reading)
+- [ ] `C++ Concurrency in Action` (📘 Reading)
+- [ ] `C++ High Performance` (📘 Reading)
 
 ---
 
 ## 🎯 Goals for 2025
 
-- ✅ Start MSCS program
-- 🚀 Land a role in **HPC**, **AI**, or **quant dev**
+- ✅ Start GaTech's MSCS program
+- 🚀 Land a role in **HPC**, **parellel computing**, or **quant dev**
 - ✍️ Publish some serious open-source projects
 - 🧪 Start developing high performance systems
 
@@ -64,5 +65,5 @@
 
 ---
 
-> *“The goal isn’t to write code that works. The goal is to write code that scales like a black hole devouring a galaxy.”*
+> *“"Premature optimization is the root of all evil." — Donald Knuth”*
 
