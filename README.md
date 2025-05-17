@@ -24,6 +24,7 @@
 | Project | Tech | Focus |
 |--------|------|-------|
 | `boids-simulator` | C++ / std::thread / SFML | Real-time flocking sim with multithreaded update/render loop |
+| `lorenz-visualizer` | Python / Matplotlib | Simulate and plot the Lorenz attractor (chaotic weather model) |
 | `monte-carlo-pricer` | C++ / std::thread / SIMD | Parallel option pricing using custom thread pool + vector math |
 | `matrix-mult-benchmark` | C++ / manual cache tuning | Compare naive vs blocked matrix mult with perf counters & timing |
 
