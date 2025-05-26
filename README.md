@@ -19,11 +19,11 @@
 
 Pushing toward mastery in low-level code, performance tuning, and systems design:
 
-- ✅ **C Projects** – malloc, linked lists, file I/O, makefiles, gdb
-- ✅ **RISC-V Sim + Interpreter** – exploring CPU architecture and instruction flow
-- ✅ **Mini Shell + Allocator** – simulating core OS behavior in userland
-- 🔜 **Multithreaded Order Book** – modern C++ concurrency, perf tuning
-- 🔜 **Socket-Based Quote Server** – TCP/IP + low-latency systems
+- ✅ **C Projects** – Malloc, linked lists, file I/O, makefiles, gdb
+- ✅ **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
+- 🔜 **HTTP Server** – Basic HTTP/1.0 server in C with socket I/O and request parsing
+- 🔜 **Multithreaded Order Book** – High-performance order matching engine in modern C++
+- 🔜 **Socket-Based Quote Server** – Low-latency C++ server using raw TCP/IP sockets
 
 ---
 
