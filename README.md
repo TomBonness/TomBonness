@@ -47,9 +47,7 @@ Pushing toward mastery in low-level code, performance tuning, and systems design
 
 ## 🎯 2025 Goals
 
-- ✅ Complete core systems curriculum (C, OS, networking, concurrency)
-- 🎓 Apply to **GaTech MSCS** or **UT Austin MSAI**
-- 🛠️ Build high-performance open-source systems
+- 🎓 Get accepted to **GaTech MSCS** or **UT Austin MSAI**
 - 🚀 Contribute to projects in **quant**, **systems**, or **low-latency engineering**
 
 ---
