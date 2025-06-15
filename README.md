@@ -17,9 +17,8 @@
 
 ## 🧪 Currently Building
 
-Pushing toward mastery in low-level code, performance tuning, and systems design:
+Pushing towards excellence in low-level code, performance, and systems design:
 
-- ✅ **C Projects** – Malloc, linked lists, file I/O, makefiles, gdb
 - ✅ **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
 - 🔜 **HTTP Server** – Basic HTTP/1.0 server in C with socket I/O and request parsing
 - 🔜 **Multithreaded Order Book** – High-performance order matching engine in modern C++
