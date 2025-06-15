@@ -10,7 +10,6 @@
 
 - 🎓 Final-year B.S. Computer Science student @ WGU  
 - 🧠 Specializing in **C/C++**, **systems programming**, and **performance optimization**
-- 🧵 Learning everything from **memory allocators** to **multithreading** to **networking**
 - 🌌 Long-term goal: build real-time systems — whether for markets, machines, or space
 
 ---
