@@ -1,4 +1,4 @@
-<h1 align="center">Tom Bonness</h1>
+<h1 align="center">Thomas Bonness</h1>
 <p align="center">
   <strong>CS Student • Low-Level Systems • C/C++ Dev</strong><br>
   Austin, TX
@@ -6,15 +6,15 @@
 
 ---
 
-## 🔧 About Me
+## About Me
 
-- 🎓 Final-year B.S. Computer Science student @ WGU  
-- 🧠 Specializing in **C/C++**, **systems programming**, and **performance optimization**
-- 🌌 Long-term goal: build real-time systems for markets, machines, or space
+- Final-year B.S. Computer Science student @ WGU  
+- Specializing in C/C++, systems programming, and performance optimization
+- Long-term goal: build real-time systems for markets, machines, or space
 
 ---
 
-## 🧪 Currently Building
+## Currently Building
 
 Pushing towards excellence in low-level code, performance, and systems design:
 
@@ -26,32 +26,28 @@ Pushing towards excellence in low-level code, performance, and systems design:
 
 ---
 
-## 📚 Books I'm Studying
+## Books I'm Studying
 
-### 🧠 Systems & Architecture
+### Systems & Architecture
 - *Computer Organization & Design – RISC-V Edition*  
 - *Operating Systems: Three Easy Pieces*  
 - *Inside the Machine* by Jon Stokes  
 
-### 💡 C++ & Software Design
+### C++ & Software Design
 - *Effective Modern C++* by Scott Meyers  
 - *C++ Software Design* by Klaus Iglberger  
 - *C++ Concurrency in Action* by Anthony Williams  
 
-### 🌐 Networking & Patterns
+### Networking & Patterns
 - *TCP/IP Illustrated Vol 1* by W. Richard Stevens  
 - *Design Patterns: Elements of Reusable Object-Oriented Software*  
 
 ---
 
-## 🎯 2025 Goals
+## 2025 Goals
 
-- 🎓 Get accepted to **GaTech MSCS** or **UT Austin MSAI**
-- 🚀 Contribute to projects in **quant**, **systems**, or **low-latency engineering**
+- Get accepted to **GaTech MSCS** or **UT Austin MSAI**
+- Contribute to projects in **quant**, **systems**, or **low-latency engineering**
 
 ---
-
-## 📫 Let’s Connect
-
-- 💬 [LinkedIn](https://www.linkedin.com/in/Bonness)
-- 👨‍💻 Always down to talk systems, compilers, or low-level code
+💬 [LinkedIn](https://www.linkedin.com/in/Bonness)
