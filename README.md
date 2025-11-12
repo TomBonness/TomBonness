@@ -14,13 +14,12 @@
 
 ---
 
-## Currently Building
-
-Pushing towards excellence in low-level code, performance, and systems design:
+## 2025 Projects
 
 - ✅ **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
 - ✅ **CloudSprouts (IoT)** – Full-stack ESP32 + AWS MQTT dashboard for garden sensors
 - ✅ **Zupshot** - Photography marketplace built with React, AWS Amplify, and shadcn/ui
+- ✅ **Fourier Transform Visualizer** - Real-time Fourier visualizer built in C++
 - 🔜 **Monte Carlo / Black-Scholes Options Pricer** – Multithreaded C++ engine for options pricing
 - 🔜 **Multithreaded Order Book** – High-performance order matching engine in modern C++
 - 🔜 **Socket-Based Quote Server** – Low-latency C++ server using raw TCP/IP sockets
