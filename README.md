@@ -1,6 +1,6 @@
 <h1 align="center">Thomas Bonness</h1>
 <p align="center">
-  <strong>CS Student • Low-Level Systems • C/C++ Dev</strong><br>
+  <strong>CS Student | Low-Level Systems | Cloud | C/C++ Dev</strong><br>
   Austin, TX
 </p>
 
@@ -8,46 +8,36 @@
 
 ## About Me
 
-- Final-year B.S. Computer Science student @ WGU  
-- Specializing in C/C++, systems programming, and performance optimization
-- Long-term goal: build real-time systems for markets, machines, or space
+Final-year B.S. Computer Science student at WGU. I focus on C/C++, systems programming, and performance optimization. Long-term goal is building real-time systems for markets, machines, or aerospace.
 
 ---
 
-## 2025 Projects
+## Projects
 
-- ✅ **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
-- ✅ **CloudSprouts (IoT)** – Full-stack ESP32 + AWS MQTT dashboard for garden sensors
-- ✅ **Zupshot** - Photography marketplace built with React, AWS Amplify, and shadcn/ui
-- ✅ **Fourier Transform Visualizer** - Real-time Fourier visualizer built in C++
-- 🔜 **Monte Carlo / Black-Scholes Options Pricer** – Multithreaded C++ engine for options pricing
-- 🔜 **Multithreaded Order Book** – High-performance order matching engine in modern C++
-- 🔜 **Socket-Based Quote Server** – Low-latency C++ server using raw TCP/IP sockets
+- **ChipGuard AI** – Semiconductor defect prediction dashboard built with PyTorch, FastAPI, and deployed on AWS (EC2, Route 53, HTTPS). Live at [chipguardai.com](https://chipguardai.com)
+- **Fourier Transform Visualizer** – Real-time Fourier visualizer built in C++
+- **CloudSprouts (IoT)** – Full-stack ESP32 + AWS MQTT dashboard for garden sensors. Live at [cloudsprouts.com](https://www.cloudsprouts.com)
+- **Zupshot** – Photography marketplace built with React, AWS Amplify, and shadcn/ui
+- **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
 
 ---
 
 ## Books I'm Studying
 
-### Systems & Architecture
-- *Computer Organization & Design – RISC-V Edition*  
-- *Operating Systems: Three Easy Pieces*  
-- *Inside the Machine* by Jon Stokes  
+### Systems and Architecture
+- *Computer Organization and Design – RISC-V Edition*
+- *Operating Systems: Three Easy Pieces*
+- *Inside the Machine* by Jon Stokes
 
-### C++ & Software Design
-- *Effective Modern C++* by Scott Meyers  
-- *C++ Software Design* by Klaus Iglberger  
-- *C++ Concurrency in Action* by Anthony Williams  
+### C++ and Software Design
+- *Effective Modern C++* by Scott Meyers
+- *C++ Software Design* by Klaus Iglberger
+- *C++ Concurrency in Action* by Anthony Williams
 
-### Networking & Patterns
-- *TCP/IP Illustrated Vol 1* by W. Richard Stevens  
-- *Design Patterns: Elements of Reusable Object-Oriented Software*  
-
----
-
-## 2025 Goals
-
-- Get accepted to GaTech MSCS or UT Austin MSAI
-- Contribute to projects in quant, systems, or low-latency engineering
+### Networking and Patterns
+- *TCP/IP Illustrated Vol 1* by W. Richard Stevens
+- *Design Patterns: Elements of Reusable Object-Oriented Software*
 
 ---
-💬 [LinkedIn](https://www.linkedin.com/in/Bonness)
+
+[LinkedIn](https://www.linkedin.com/in/Bonness)
