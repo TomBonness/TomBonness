@@ -14,7 +14,7 @@ Final-year B.S. Computer Science student at WGU. I focus on C/C++, systems progr
 
 ## Projects
 
-- **ChipGuard AI** – Semiconductor defect prediction dashboard built with PyTorch, FastAPI, and deployed on AWS (EC2, Route 53, HTTPS). Live at [chipguardai.com](https://chipguardai.com)
+- **ChipGuard AI** – Semiconductor defect prediction dashboard built with PyTorch, FastAPI, and deployed on AWS (EC2, Route 53, Amplify). Live at [chipguardai.com](https://chipguardai.com)
 - **Fourier Transform Visualizer** – Real-time Fourier visualizer built in C++
 - **CloudSprouts (IoT)** – Full-stack ESP32 + AWS MQTT dashboard for garden sensors. Live at [cloudsprouts.com](https://www.cloudsprouts.com)
 - **Zupshot** – Photography marketplace built with React, AWS Amplify, and shadcn/ui
