@@ -1,43 +1,89 @@
-<h1 align="center">Thomas Bonness</h1>
-<p align="center">
-  <strong>CS Student | Low-Level Systems | Cloud | C/C++ Dev</strong><br>
-  Austin, TX
-</p>
 
----
 
-## About Me
+   ```text
+            /\                         TOM BONNESS
+           /  \        _               ----------------
+          / /\ \      / \              Austin, TX
+         / ____ \    /___\             building useful stuff
+        /_/    \_\  |=   =|            terminal tools  | embedded sensors
+                    |  ^  |            AI harnesses    | cloud pipelines
+                    |_____|            aerospace brain | systems taste
+   ```
 
-Final-year B.S. Computer Science student at WGU. I focus on C/C++, systems programming, and performance optimization. Long-term goal is building real-time systems for markets, machines, or aerospace.
+   ## projects
 
----
+   <table>
+   <tr>
+   <td width="33%" valign="top">
 
-## Projects
+   ### [01] [fasterm](https://github.com/TomBonness/fasterm)
 
-- **ChipGuard AI** – Semiconductor defect prediction dashboard built with PyTorch, FastAPI, and deployed on AWS (EC2, Route 53, Amplify). Live at [chipguardai.com](https://chipguardai.com)
-- **Fourier Transform Visualizer** – Real-time Fourier visualizer built in C++
-- **CloudSprouts (IoT)** – Full-stack ESP32 + AWS MQTT dashboard for garden sensors. Live at [cloudsprouts.com](https://www.cloudsprouts.com)
-- **Zupshot** – Photography marketplace built with React, AWS Amplify, and shadcn/ui
-- **Line Count Analyzer** – Recursive file scanner in C that counts lines by filetype
+   A Rust terminal RSVP reader for speed reading command output, scrollback, cmux/tmux panes, files, and agent transcripts without losing context.
 
----
 
-## Books I'm Studying
+   `Rust` `TUI` `cmux` `tmux`
 
-### Systems and Architecture
-- *Computer Organization and Design – RISC-V Edition*
-- *Operating Systems: Three Easy Pieces*
-- *Inside the Machine* by Jon Stokes
+   </td>
+   <td width="33%" valign="top">
 
-### C++ and Software Design
-- *Effective Modern C++* by Scott Meyers
-- *C++ Software Design* by Klaus Iglberger
-- *C++ Concurrency in Action* by Anthony Williams
+   ### [02] [wordfinder](https://main.d2dizamdm6z6mx.amplifyapp.com)
 
-### Networking and Patterns
-- *TCP/IP Illustrated Vol 1* by W. Richard Stevens
-- *Design Patterns: Elements of Reusable Object-Oriented Software*
+   A word-discovery archive built around a finite dictionary corpus: for showing off some cool fundimental principals like the zipf curve
+ data.
 
----
 
-[LinkedIn](https://www.linkedin.com/in/Bonness)
+   `Next.js` `TypeScript` `Amplify Gen 2` `DynamoDB`
+
+   </td>
+   <td width="33%" valign="top">
+
+   ### [03] [semiguard](https://chipguardai.com)
+
+   A semiconductor defect prediction dashboard using UCI SECOM wafer fabrication data, PyTorch predictions, Flask APIs, drift detection, and an Angular UI.
+
+
+   `PyTorch` `Flask` `Angular` `SQLite` `AWS`
+
+   </td>
+   </tr>
+   </table>
+   <table>
+   <tr>
+   <td width="50%" valign="top">
+
+   ### [05] [fourier-visualizer](https://github.com/TomBonness/fourier-visualizer)
+
+   C++/SFML visualizer that decomposes 2D paths into epicycles with the Discrete Fourier Transform. Preset/custom shapes, real-time controls, etc.
+
+   </td>
+   <td width="50%" valign="top">
+
+   ### [06] [CloudSprouts IoT](https://www.cloudsprouts.com)
+
+   An ESP32 garden sensor pipeline from firmware to AWS to dashboard.
+
+   - [device firmware](https://github.com/TomBonness/cloudsprouts-IoT-device): ESP32 + DHT11, ESP-IDF, MQTT over TLS into AWS IoT Core
+   - [dashboard](https://github.com/TomBonness/cloudsprouts-dashboard): React/Tailwind/Recharts with Lambda, DynamoDB, API Gateway, Amplify, CDN
+
+   </td>
+   </tr>
+   </table>
+
+   ---
+
+   <p align="center">
+     <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,react,nextjs,angular,py,pytorch,flask,aws,dynamodb,sqlite,cmake" alt="Tools and languages" />
+   </p>
+
+   ```text
+   SYSTEMS / EMBEDDED  C • C++ • Rust • ESP32 • ESP-IDF • CMake
+   CLOUD / BACKEND     AWS IoT Core • Lambda • DynamoDB • API Gateway • EC2 • Amplify • Flask
+   FRONTEND            TypeScript • React • Next.js • Angular • TailwindCSS
+   ML / DATA           PyTorch • drift detection • model monitoring • SQLite
+   ```
+
+   ---
+
+   <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,45:0891b2,100:020617&height=110&section=footer" alt="Footer wave" />
+   </p>
