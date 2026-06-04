@@ -1,13 +1,20 @@
 
 
    ```text
-            /\                         TOM BONNESS
-           /  \        _               ----------------
-          / /\ \      / \              Austin, TX
-         / ____ \    /___\             building useful stuff
-        /_/    \_\  |=   =|            terminal tools  | embedded sensors
-                    |  ^  |            AI harnesses    | cloud pipelines
-                    |_____|            aerospace brain | systems taste
+ .    '                   .  "   '            TOM BONNESS
+            .  .  .                 '      '    ----------------
+    "`       .   .                              Austin, TX
+                                     '     '    building useful stuff
+  .    '      _______________                  terminal tools  | embedded sensors
+          ==c(___(o(______(_()                  AI harnesses    | cloud pipelines
+                  \=\                           fun math stuff  | buzzwords etc
+                   )=\
+                  //|\\
+                 //|| \\
+                // ||  \\
+               //  ||   \\
+              //         \\
+
    ```
 
    ## projects
