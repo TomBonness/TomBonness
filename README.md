@@ -6,7 +6,7 @@
     "`       .   .                              Austin, TX
                                      '     '    building useful stuff
   .    '      _______________                  terminal tools  | embedded sensors
-          ==c(___(o(______(_()                  AI harnesses    | cloud pipelines
+           ==c(___(o(______(_()                 AI harnesses    | cloud pipelines
                   \=\                           fun math stuff  | buzzwords etc
                    )=\
                   //|\\
