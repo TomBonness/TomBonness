@@ -25,7 +25,7 @@
 
    ### [01] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
 
-   A macOS menu bar utility that keeps a chosen USB/DJI microphone selected when AirPods or macOS try to switch the default input.
+   A macOS menu bar utility that keeps whichever microphone you choose selected when macOS or another app switches the default input.
 
    `Swift` `CoreAudio` `macOS` `MenuBarExtra`
 
