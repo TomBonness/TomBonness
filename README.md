@@ -56,14 +56,25 @@
    </table>
    <table>
    <tr>
-   <td width="50%" valign="top">
+   <td width="33%" valign="top">
+
+   ### [04] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
+
+   A macOS menu bar utility that keeps a chosen USB/DJI microphone selected when AirPods or macOS try to switch the default input.
+
+   `Swift` `CoreAudio` `macOS` `MenuBarExtra`
+
+   </td>
+   <td width="33%" valign="top">
 
    ### [05] [fourier-visualizer](https://github.com/TomBonness/fourier-visualizer)
 
    C++/SFML visualizer that decomposes 2D paths into epicycles with the Discrete Fourier Transform. Preset/custom shapes, real-time controls, etc.
 
+   `C++` `SFML` `Fourier`
+
    </td>
-   <td width="50%" valign="top">
+   <td width="33%" valign="top">
 
    ### [06] [CloudSprouts IoT](https://www.cloudsprouts.com)
 
@@ -71,6 +82,8 @@
 
    - [device firmware](https://github.com/TomBonness/cloudsprouts-IoT-device): ESP32 + DHT11, ESP-IDF, MQTT over TLS into AWS IoT Core
    - [dashboard](https://github.com/TomBonness/cloudsprouts-dashboard): React/Tailwind/Recharts with Lambda, DynamoDB, API Gateway, Amplify, CDN
+
+   `ESP32` `AWS IoT` `React`
 
    </td>
    </tr>
