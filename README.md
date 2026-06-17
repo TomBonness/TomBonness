@@ -23,33 +23,29 @@
    <tr>
    <td width="33%" valign="top">
 
-   ### [01] [fasterm](https://github.com/TomBonness/fasterm)
+   ### [01] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
+
+   A macOS menu bar utility that keeps a chosen USB/DJI microphone selected when AirPods or macOS try to switch the default input.
+
+   `Swift` `CoreAudio` `macOS` `MenuBarExtra`
+
+   </td>
+   <td width="33%" valign="top">
+
+   ### [02] [fasterm](https://github.com/TomBonness/fasterm)
 
    A Rust terminal RSVP reader for speed reading command output, scrollback, cmux/tmux panes, files, and agent transcripts without losing context.
-
 
    `Rust` `TUI` `cmux` `tmux`
 
    </td>
    <td width="33%" valign="top">
 
-   ### [02] [wordfinder](https://main.d2dizamdm6z6mx.amplifyapp.com)
+   ### [03] [wordfinder](https://main.d2dizamdm6z6mx.amplifyapp.com)
 
-   A word-discovery archive built around a finite dictionary corpus: for showing off some cool fundimental principals like the zipf curve
- data.
-
+   A word-discovery archive built around a finite dictionary corpus: showing off some cool fundamental principles like the Zipf curve.
 
    `Next.js` `TypeScript` `Amplify Gen 2` `DynamoDB`
-
-   </td>
-   <td width="33%" valign="top">
-
-   ### [03] [semiguard](https://chipguardai.com)
-
-   A semiconductor defect prediction dashboard using UCI SECOM wafer fabrication data, PyTorch predictions, Flask APIs, drift detection, and an Angular UI.
-
-
-   `PyTorch` `Flask` `Angular` `SQLite` `AWS`
 
    </td>
    </tr>
@@ -58,11 +54,11 @@
    <tr>
    <td width="33%" valign="top">
 
-   ### [04] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
+   ### [04] [semiguard](https://chipguardai.com)
 
-   A macOS menu bar utility that keeps a chosen USB/DJI microphone selected when AirPods or macOS try to switch the default input.
+   A semiconductor defect prediction dashboard using UCI SECOM wafer fabrication data, PyTorch predictions, Flask APIs, drift detection, and an Angular UI.
 
-   `Swift` `CoreAudio` `macOS` `MenuBarExtra`
+   `PyTorch` `Flask` `Angular` `SQLite` `AWS`
 
    </td>
    <td width="33%" valign="top">
