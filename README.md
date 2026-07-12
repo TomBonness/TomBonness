@@ -1,105 +1,112 @@
-
-
-   ```text
+```text
  .    '                   .  "   '            TOM BONNESS
             .  .  .                 '      '    ----------------
     "`       .   .                              Austin, TX
                                      '     '    building useful stuff
-  .    '      _______________                  terminal tools  | embedded sensors
-           ==c(___(o(______(_()                 AI harnesses    | cloud pipelines
-                  \=\                           fun math stuff  | buzzwords etc
+  .    '      _______________                  desktop tools   | embedded systems
+           ==c(___(o(______(_()                 local speech    | cloud pipelines
+                  \=\                           visual math     | applied ML
                    )=\
                   //|\\
                  //|| \\
                 // ||  \\
                //  ||   \\
               //         \\
+```
 
-   ```
+<p align="center">
+  <strong>Systems, desktop tools, cloud infrastructure, and applied ML.</strong><br>
+  I like turning complicated ideas into focused software that does one useful thing well.
+</p>
 
-   ## projects
+<p align="center">
+  <a href="#selected-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/bonness/">LinkedIn</a>
+</p>
 
-   <table>
-   <tr>
-   <td width="33%" valign="top">
+## selected projects
 
-   ### [01] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-   A macOS menu bar utility that keeps whichever microphone you choose selected when macOS or another app switches the default input.
+### [01] [dontswitchmics](https://github.com/TomBonness/dontswitchmics)
 
-   `Swift` `CoreAudio` `macOS` `MenuBarExtra`
+A macOS menu-bar utility that keeps your chosen microphone selected when macOS or another app tries to switch it.
 
-   </td>
-   <td width="33%" valign="top">
+`Swift` `CoreAudio` `macOS` `MenuBarExtra`
 
-   ### [02] [fasterm](https://github.com/TomBonness/fasterm)
+</td>
+<td width="33%" valign="top">
 
-   A Rust terminal RSVP reader for speed reading command output, scrollback, cmux/tmux panes, files, and agent transcripts without losing context.
+### [02] [lavtype](https://github.com/TomBonness/lavtype)
 
-   `Rust` `TUI` `cmux` `tmux`
+A tray-only push-to-talk dictation utility for macOS and Linux. Speech stays local and the transcript is typed directly into the focused app.
 
-   </td>
-   <td width="33%" valign="top">
+`Rust` `Parakeet` `Apple Speech` `macOS` `Linux`
 
-   ### [03] [wordfinder](https://main.d2dizamdm6z6mx.amplifyapp.com)
+</td>
+<td width="33%" valign="top">
 
-   A word-discovery archive built around a finite dictionary corpus: showing off some cool fundamental principles like the Zipf curve.
+### [03] [wordfinder](https://main.d2dizamdm6z6mx.amplifyapp.com)
 
-   `Next.js` `TypeScript` `Amplify Gen 2` `DynamoDB`
+A minimalist word-discovery archive that explores a finite dictionary corpus and patterns such as Zipf's law.
 
-   </td>
-   </tr>
-   </table>
-   <table>
-   <tr>
-   <td width="33%" valign="top">
+`Next.js` `TypeScript` `Amplify Gen 2` `DynamoDB`
 
-   ### [04] [semiguard](https://chipguardai.com)
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-   A semiconductor defect prediction dashboard using UCI SECOM wafer fabrication data, PyTorch predictions, Flask APIs, drift detection, and an Angular UI.
+### [04] [semiguard](https://chipguardai.com)
 
-   `PyTorch` `Flask` `Angular` `SQLite` `AWS`
+A semiconductor defect-prediction dashboard built on UCI SECOM wafer data, with model monitoring and drift detection.
 
-   </td>
-   <td width="33%" valign="top">
+`PyTorch` `Flask` `Angular` `SQLite` `AWS`
 
-   ### [05] [fourier-visualizer](https://github.com/TomBonness/fourier-visualizer)
+</td>
+<td width="33%" valign="top">
 
-   C++/SFML visualizer that decomposes 2D paths into epicycles with the Discrete Fourier Transform. Preset/custom shapes, real-time controls, etc.
+### [05] [fourier-visualizer](https://github.com/TomBonness/fourier-visualizer)
 
-   `C++` `SFML` `Fourier`
+An interactive C++/SFML visualization that decomposes 2D paths into epicycles and retraces them in real time.
 
-   </td>
-   <td width="33%" valign="top">
+`C++` `SFML` `Fourier`
 
-   ### [06] [CloudSprouts IoT](https://www.cloudsprouts.com)
+</td>
+<td width="33%" valign="top">
 
-   An ESP32 garden sensor pipeline from firmware to AWS to dashboard.
+### [06] [CloudSprouts IoT](https://www.cloudsprouts.com)
 
-   - [device firmware](https://github.com/TomBonness/cloudsprouts-IoT-device): ESP32 + DHT11, ESP-IDF, MQTT over TLS into AWS IoT Core
-   - [dashboard](https://github.com/TomBonness/cloudsprouts-dashboard): React/Tailwind/Recharts with Lambda, DynamoDB, API Gateway, Amplify, CDN
+An end-to-end garden sensor pipeline: ESP32 firmware sends readings through AWS IoT Core to a real-time web dashboard.
 
-   `ESP32` `AWS IoT` `React`
+[device firmware](https://github.com/TomBonness/cloudsprouts-IoT-device) · [dashboard](https://github.com/TomBonness/cloudsprouts-dashboard)
 
-   </td>
-   </tr>
-   </table>
+`ESP32` `ESP-IDF` `AWS IoT` `React`
 
-   ---
+</td>
+</tr>
+</table>
 
-   <p align="center">
-     <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,react,nextjs,angular,py,pytorch,flask,aws,dynamodb,sqlite,cmake" alt="Tools and languages" />
-   </p>
+## toolkit
 
-   ```text
-   SYSTEMS / EMBEDDED  C • C++ • Rust • ESP32 • ESP-IDF • CMake
-   CLOUD / BACKEND     AWS IoT Core • Lambda • DynamoDB • API Gateway • EC2 • Amplify • Flask
-   FRONTEND            TypeScript • React • Next.js • Angular • TailwindCSS
-   ML / DATA           PyTorch • drift detection • model monitoring • SQLite
-   ```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,react,nextjs,angular,py,pytorch,flask,aws,dynamodb,sqlite,cmake" alt="C, C++, Rust, TypeScript, React, Next.js, Angular, Python, PyTorch, Flask, AWS, DynamoDB, SQLite, and CMake" />
+</p>
 
-   ---
+| Area | Tools |
+| --- | --- |
+| **Systems & desktop** | C · C++ · Rust · ESP32 · ESP-IDF · CMake · CoreAudio |
+| **Cloud & backend** | AWS IoT Core · Lambda · DynamoDB · API Gateway · Amplify · Flask |
+| **Frontend** | TypeScript · React · Next.js · Angular · Tailwind CSS |
+| **ML & data** | PyTorch · speech recognition · drift detection · model monitoring · SQLite |
 
-   <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,45:0891b2,100:020617&height=110&section=footer" alt="Footer wave" />
-   </p>
+<p align="center">
+  <sub>Austin, Texas · <a href="https://www.linkedin.com/in/bonness/">connect on LinkedIn</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,45:0891b2,100:020617&height=110&section=footer" alt="Green and blue footer wave" />
+</p>
