@@ -1,11 +1,11 @@
 ```text
- .    '                   .  "   '            TOM BONNESS
-            .  .  .                 '      '    ----------------
-    "`       .   .                              Austin, TX
-                                     '     '    building useful stuff
-  .    '      _______________                  desktop tools   | embedded systems
-           ==c(___(o(______(_()                 local speech    | cloud pipelines
-                  \=\                           visual math     | applied ML
+ .    '                   .  "   '
+            .  .  .                 '      '
+    "`       .   .
+                                     '     '
+  .    '      _______________
+           ==c(___(o(______(_()
+                  \=\
                    )=\
                   //|\\
                  //|| \\
@@ -15,7 +15,8 @@
 ```
 
 <p align="center">
-  <strong>Systems, desktop tools, cloud infrastructure, and applied ML.</strong><br>
+  <strong>TOM BONNESS · AUSTIN, TX</strong><br>
+  Systems, desktop tools, cloud infrastructure, and applied ML.<br>
   I like turning complicated ideas into focused software that does one useful thing well.
 </p>
 
